@@ -1,0 +1,7 @@
+<resources>
+    <color name="dex_taskbar_bg">#D90A0B0E</color>
+    <color name="dex_accent">#3D7EFF</color>
+    <color name="dex_white">#FFFFFFFF</color>
+    <color name="dex_muted">#A0AEC4</color>
+    <color name="dex_active_indicator">#E0E0E0</color>
+</resources>
